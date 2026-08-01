@@ -1,0 +1,502 @@
+{
+  "name": "McKinsey-Forward-Leadership-Problem-Solving",
+  "description": "31-day August 2026 sprint following the 10 McKinsey Forward Learning Program sessions: problem solving, communication, leadership, digital fluency and resilience, with playbooks, templates and Python decision tools.",
+  "topics": [
+    "problem-solving",
+    "mece",
+    "pyramid-principle",
+    "hypothesis-driven",
+    "leadership",
+    "stakeholder-management",
+    "ai-governance",
+    "resilience",
+    "consulting-frameworks",
+    "python"
+  ],
+  "target_month": "2026-08",
+  "date_range": {
+    "start": "2026-08-01",
+    "end": "2026-08-31"
+  },
+  "author": {
+    "name": "Shrikant Kudale",
+    "role": "AI Engineer Intern"
+  },
+  "sessions": {
+    "1": "Foundations of Adaptability & Growth Mindset",
+    "2": "Defining the Problem",
+    "3": "Structuring the Problem",
+    "4": "Data-Driven Analysis & Synthesis",
+    "5": "Communicating for Impact",
+    "6": "Influencing & Stakeholder Alignment",
+    "7": "High-Performing Teams & Collaboration",
+    "8": "Digital Fluency & AI-Augmented Productivity",
+    "9": "Emotional Intelligence & Sustainable Resilience",
+    "10": "Synthesis, Action Planning & Career Architecture"
+  },
+  "root_files": [
+    "README.md",
+    "repo_metadata.json",
+    "backdate_commit_pipeline.py",
+    ".gitignore"
+  ],
+  "manifest": [
+    {
+      "folder": "Day-01",
+      "date": "2026-08-01",
+      "session": "Session 1",
+      "topic": "Navigating the Future of Work: VUCA/BANI & Capability Baseline",
+      "files": [
+        "README.md",
+        "capability_baseline.yaml",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-02",
+      "date": "2026-08-02",
+      "session": "Session 1",
+      "topic": "Reframing Ambiguity & Cognitive Agility in High-Stakes Projects",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "reframing_worksheet.yaml",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-03",
+      "date": "2026-08-03",
+      "session": "Session 1",
+      "topic": "Building Deliberate Learning Loops & Habit Architecture",
+      "files": [
+        "README.md",
+        "habit_tracker.py",
+        "learning_loop.yaml",
+        "metadata.json",
+        "playbook.md",
+        "tracker_log.json"
+      ]
+    },
+    {
+      "folder": "Day-04",
+      "date": "2026-08-04",
+      "session": "Session 2",
+      "topic": "Deconstructing Ambiguous Business Challenges",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "problem_statement_worksheet.yaml",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-05",
+      "date": "2026-08-05",
+      "session": "Session 2",
+      "topic": "SMART Problem Statements & Scope Boundary Engineering",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json",
+        "smart_problem_statement.yaml"
+      ]
+    },
+    {
+      "folder": "Day-06",
+      "date": "2026-08-06",
+      "session": "Session 2",
+      "topic": "Root Cause Analysis: 5 Whys, Fishbone & Pareto 80/20",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "pareto_analyzer.py",
+        "pareto_data.json",
+        "playbook.md",
+        "rca_worksheet.yaml"
+      ]
+    },
+    {
+      "folder": "Day-07",
+      "date": "2026-08-07",
+      "session": "Session 3",
+      "topic": "MECE Principle & Logic Trees",
+      "files": [
+        "README.md",
+        "issue_tree_checker.py",
+        "issue_tree_template.yaml",
+        "issue_trees.json",
+        "metadata.json",
+        "playbook.md"
+      ]
+    },
+    {
+      "folder": "Day-08",
+      "date": "2026-08-08",
+      "session": "Session 3",
+      "topic": "Quantitative Profitability & Driver Trees",
+      "files": [
+        "README.md",
+        "driver_case.json",
+        "driver_tree.yaml",
+        "metadata.json",
+        "playbook.md",
+        "profit_driver_simulator.py"
+      ]
+    },
+    {
+      "folder": "Day-09",
+      "date": "2026-08-09",
+      "session": "Session 3",
+      "topic": "Hypothesis-Driven Problem Solving & 2x2 Prioritization",
+      "files": [
+        "README.md",
+        "decision_matrix.py",
+        "hypothesis_card.yaml",
+        "metadata.json",
+        "options.json",
+        "playbook.md"
+      ]
+    },
+    {
+      "folder": "Day-10",
+      "date": "2026-08-10",
+      "session": "Session 4",
+      "topic": "Designing Lean Workplans",
+      "files": [
+        "README.md",
+        "lean_workplan.yaml",
+        "metadata.json",
+        "playbook.md",
+        "workplan.json",
+        "workplan_validator.py"
+      ]
+    },
+    {
+      "folder": "Day-11",
+      "date": "2026-08-11",
+      "session": "Session 4",
+      "topic": "Data Sanity Checks, Triangulation & Quantitative Modelling",
+      "files": [
+        "README.md",
+        "business_case_model.py",
+        "metadata.json",
+        "model_inputs.json",
+        "playbook.md",
+        "sanity_check_log.yaml"
+      ]
+    },
+    {
+      "folder": "Day-12",
+      "date": "2026-08-12",
+      "session": "Session 4",
+      "topic": "Synthesizing Insights: From Raw Findings to So What",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json",
+        "synthesis_ladder.yaml"
+      ]
+    },
+    {
+      "folder": "Day-13",
+      "date": "2026-08-13",
+      "session": "Session 5",
+      "topic": "The Minto Pyramid Principle",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "pyramid_outline.yaml",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-14",
+      "date": "2026-08-14",
+      "session": "Session 5",
+      "topic": "Narrative Storyboarding & SCQA Executive Decks",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json",
+        "storyboard.yaml"
+      ]
+    },
+    {
+      "folder": "Day-15",
+      "date": "2026-08-15",
+      "session": "Session 5",
+      "topic": "Executive Data Storytelling & High-Impact Visuals",
+      "files": [
+        "README.md",
+        "chart_generator.py",
+        "chart_spec.yaml",
+        "chart_specs.json",
+        "metadata.json",
+        "playbook.md"
+      ]
+    },
+    {
+      "folder": "Day-16",
+      "date": "2026-08-16",
+      "session": "Session 6",
+      "topic": "Stakeholder Mapping & Power-Interest Grids",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "stakeholder_grid.py",
+        "stakeholder_map.yaml",
+        "stakeholders.json"
+      ]
+    },
+    {
+      "folder": "Day-17",
+      "date": "2026-08-17",
+      "session": "Session 6",
+      "topic": "Active Listening, Empathy & Difficult Conversations",
+      "files": [
+        "README.md",
+        "conversation_plan.yaml",
+        "metadata.json",
+        "playbook.md",
+        "pushback_scripts.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-18",
+      "date": "2026-08-18",
+      "session": "Session 6",
+      "topic": "Persuasion Without Authority & Executive Presence",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "prewire_plan.yaml",
+        "sixty_second_pitch.md",
+        "stakeholder_grid.py",
+        "stakeholders.json"
+      ]
+    },
+    {
+      "folder": "Day-19",
+      "date": "2026-08-19",
+      "session": "Session 7",
+      "topic": "Psychological Safety & Team Norms",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json",
+        "team_charter.yaml"
+      ]
+    },
+    {
+      "folder": "Day-20",
+      "date": "2026-08-20",
+      "session": "Session 7",
+      "topic": "Inclusive Collaboration & Productive Conflict Resolution",
+      "files": [
+        "README.md",
+        "conflict_protocol.yaml",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-21",
+      "date": "2026-08-21",
+      "session": "Session 7",
+      "topic": "Agile Cadences, Delegation & Accountability Frameworks",
+      "files": [
+        "README.md",
+        "delegation_checklist.yaml",
+        "metadata.json",
+        "playbook.md",
+        "raci_matrix.json",
+        "raci_validator.py"
+      ]
+    },
+    {
+      "folder": "Day-22",
+      "date": "2026-08-22",
+      "session": "Session 8",
+      "topic": "Digital Transformation Fundamentals",
+      "files": [
+        "README.md",
+        "digital_maturity.yaml",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-23",
+      "date": "2026-08-23",
+      "session": "Session 8",
+      "topic": "Generative AI & Human-in-the-Loop Workflows",
+      "files": [
+        "README.md",
+        "hitl_workflow.yaml",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-24",
+      "date": "2026-08-24",
+      "session": "Session 8",
+      "topic": "Ethical AI Governance, Data Privacy & Responsible Deployment",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "responsible_ai_checklist.yaml",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-25",
+      "date": "2026-08-25",
+      "session": "Session 9",
+      "topic": "Self-Awareness & Energy Management",
+      "files": [
+        "README.md",
+        "energy_plan.yaml",
+        "habit_tracker.py",
+        "metadata.json",
+        "playbook.md",
+        "tracker_log.json"
+      ]
+    },
+    {
+      "folder": "Day-26",
+      "date": "2026-08-26",
+      "session": "Session 9",
+      "topic": "Emotional Regulation Under Pressure & Executive Composure",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json",
+        "trigger_map.yaml"
+      ]
+    },
+    {
+      "folder": "Day-27",
+      "date": "2026-08-27",
+      "session": "Session 9",
+      "topic": "Time Sovereignty, Deep Work & Ruthless Prioritization",
+      "files": [
+        "README.md",
+        "focus_allocator.py",
+        "metadata.json",
+        "playbook.md",
+        "weekly_time_log.json",
+        "weekly_time_plan.yaml"
+      ]
+    },
+    {
+      "folder": "Day-28",
+      "date": "2026-08-28",
+      "session": "Session 10",
+      "topic": "Connecting All 10 Forward Pillars",
+      "files": [
+        "README.md",
+        "integration_map.md",
+        "integration_map.yaml",
+        "metadata.json",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-29",
+      "date": "2026-08-29",
+      "session": "Session 10",
+      "topic": "Full Business Case Simulation: Retail Margin & Digital Turnaround",
+      "files": [
+        "README.md",
+        "board_memo.md",
+        "case_workbook.yaml",
+        "driver_case.json",
+        "metadata.json",
+        "playbook.md",
+        "profit_driver_simulator.py"
+      ]
+    },
+    {
+      "folder": "Day-30",
+      "date": "2026-08-30",
+      "session": "Session 10",
+      "topic": "90-Day Personal Leadership & Career Development Blueprint",
+      "files": [
+        "README.md",
+        "metadata.json",
+        "okr_blueprint.yaml",
+        "outreach_templates.md",
+        "playbook.md",
+        "readiness_scorer.py",
+        "scorecard.csv",
+        "self_assessment.json"
+      ]
+    },
+    {
+      "folder": "Day-31",
+      "date": "2026-08-31",
+      "session": "Capstone",
+      "topic": "End-to-End Capstone: Executive Playbook & Decision Toolkit",
+      "files": [
+        "README.md",
+        "capstone_plan.yaml",
+        "final_retrospective.md",
+        "master_templates_library.md",
+        "metadata.json",
+        "playbook.md",
+        "toolkit.py",
+        "toolkit_registry.json"
+      ]
+    }
+  ]
+}
