@@ -1,0 +1,19 @@
+{
+  "day": 4,
+  "date": "2026-08-04",
+  "session": "Session 2",
+  "session_title": "Defining the Problem",
+  "topic": "Deconstructing Ambiguous Business Challenges",
+  "commit_messages": [
+    "docs(day-04): add problem deconstruction and SCQ framework overview",
+    "docs(day-04): add executive playbook for problem deconstruction and SCQ",
+    "feat(day-04): add readiness_scorer.py analytical tool",
+    "data(day-04): add case dataset for problem deconstruction and SCQ",
+    "docs(day-04): add case study walkthrough: Online marketplace sees repeat purchases decline",
+    "docs(day-04): add reflection and action checklist",
+    "docs(day-04): align content with Session 2 objectives",
+    "feat(day-04): add reusable template problem_statement_worksheet.yaml",
+    "refactor(day-04): tighten step-by-step methodology wording",
+    "chore(day-04): update day metadata and manifest entries"
+  ]
+}
