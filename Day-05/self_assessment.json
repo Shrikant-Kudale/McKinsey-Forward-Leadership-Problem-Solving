@@ -1,0 +1,30 @@
+{
+  "title": "Day 05: SMART Problem Statements & Scope Boundary Engineering - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "The decision-maker is named",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Success is measurable and dated",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Constraints and scope boundaries are written",
+      "weight": 2,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "No solution appears in the statement",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"Success is measurable and dated\" this week and log the result."
+}
