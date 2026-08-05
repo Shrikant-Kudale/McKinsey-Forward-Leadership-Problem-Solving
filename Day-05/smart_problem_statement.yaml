@@ -1,0 +1,9 @@
+# SMART Problem Statement (Day 05, Session 2)
+# Fill in each field; guidance is in the comments.
+template: "SMART Problem Statement"
+day: 5
+decision_maker: ""  # Name and decision
+success_criteria: ""  # Metric, target, date
+constraints: ""  # Budget, data, regulation, people
+scope_in_out_parked: ""  # Three lists
+assumptions: ""  # What we take as given
