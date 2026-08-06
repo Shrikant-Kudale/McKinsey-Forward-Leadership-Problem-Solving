@@ -1,0 +1,38 @@
+{
+  "title": "Day 06: Payments API incident minutes by root cause",
+  "unit": "minutes",
+  "items": [
+    {
+      "name": "Config change without canary",
+      "value": 410
+    },
+    {
+      "name": "Database connection pool exhaustion",
+      "value": 290
+    },
+    {
+      "name": "Cache stampede after deploy",
+      "value": 150
+    },
+    {
+      "name": "Expired TLS certificate",
+      "value": 90
+    },
+    {
+      "name": "Third-party API timeout",
+      "value": 60
+    },
+    {
+      "name": "Runbook gaps and slow escalation",
+      "value": 45
+    },
+    {
+      "name": "Misrouted alert",
+      "value": 30
+    },
+    {
+      "name": "Other",
+      "value": 25
+    }
+  ]
+}
