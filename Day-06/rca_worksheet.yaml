@@ -1,0 +1,9 @@
+# Root Cause Analysis Worksheet (Day 06, Session 2)
+# Fill in each field; guidance is in the comments.
+template: "Root Cause Analysis Worksheet"
+day: 6
+problem_and_impact: ""  # Measured impact
+fishbone_causes: ""  # Five categories
+five_whys_chains: ""  # Chain per candidate cause
+pareto_table: ""  # Cause and impact
+countermeasures: ""  # Owner, metric, date
