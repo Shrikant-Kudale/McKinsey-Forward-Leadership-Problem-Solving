@@ -1,0 +1,19 @@
+{
+  "day": 6,
+  "date": "2026-08-06",
+  "session": "Session 2",
+  "session_title": "Defining the Problem",
+  "topic": "Root Cause Analysis: 5 Whys, Fishbone & Pareto 80/20",
+  "commit_messages": [
+    "docs(day-06): add root cause analysis and Pareto framework overview",
+    "docs(day-06): add executive playbook for root cause analysis and Pareto",
+    "feat(day-06): add pareto_analyzer.py analytical tool",
+    "data(day-06): add case dataset for root cause analysis and Pareto",
+    "docs(day-06): add case study walkthrough: Payments API outage with 1,100 minutes of cumulative impact",
+    "docs(day-06): add reflection and action checklist",
+    "docs(day-06): align content with Session 2 objectives",
+    "feat(day-06): add reusable template rca_worksheet.yaml",
+    "refactor(day-06): tighten step-by-step methodology wording",
+    "chore(day-06): update day metadata and manifest entries"
+  ]
+}
