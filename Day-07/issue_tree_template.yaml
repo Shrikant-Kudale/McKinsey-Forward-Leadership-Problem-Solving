@@ -1,0 +1,9 @@
+# Issue Tree Template (Day 07, Session 3)
+# Fill in each field; guidance is in the comments.
+template: "Issue Tree Template"
+day: 7
+root_question: ""  # Diagnostic or lever question
+level_1_principle: ""  # Formula, process or segmentation
+branches: ""  # Nested list
+mece_checks: ""  # Overlap test, gap test
+branches_to_prioritise: ""  # Where we will dig first
