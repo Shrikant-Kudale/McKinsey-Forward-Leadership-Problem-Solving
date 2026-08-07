@@ -1,0 +1,104 @@
+{
+  "trees": [
+    {
+      "label": "Version 2 (corrected): Ecommerce profit driver tree",
+      "root": {
+        "name": "Profit",
+        "op": "difference",
+        "stated": 1500000,
+        "children": [
+          {
+            "name": "Revenue",
+            "op": "product",
+            "stated": 22000000,
+            "children": [
+              {
+                "name": "Active customers",
+                "value": 100000
+              },
+              {
+                "name": "Orders per customer",
+                "value": 4
+              },
+              {
+                "name": "Average order value",
+                "value": 55
+              }
+            ]
+          },
+          {
+            "name": "Total cost",
+            "op": "sum",
+            "stated": 20500000,
+            "children": [
+              {
+                "name": "Cost of goods sold",
+                "value": 11000000
+              },
+              {
+                "name": "Marketing",
+                "value": 3500000
+              },
+              {
+                "name": "Fulfilment",
+                "value": 3200000
+              },
+              {
+                "name": "G&A",
+                "value": 2800000
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Version 1 (flawed): G&A omitted from the cost branch",
+      "root": {
+        "name": "Profit",
+        "op": "difference",
+        "stated": 1500000,
+        "children": [
+          {
+            "name": "Revenue",
+            "op": "product",
+            "stated": 22000000,
+            "children": [
+              {
+                "name": "Active customers",
+                "value": 100000
+              },
+              {
+                "name": "Orders per customer",
+                "value": 4
+              },
+              {
+                "name": "Average order value",
+                "value": 55
+              }
+            ]
+          },
+          {
+            "name": "Total cost",
+            "op": "sum",
+            "stated": 20500000,
+            "children": [
+              {
+                "name": "Cost of goods sold",
+                "value": 11000000
+              },
+              {
+                "name": "Marketing",
+                "value": 3500000
+              },
+              {
+                "name": "Fulfilment",
+                "value": 3200000
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
