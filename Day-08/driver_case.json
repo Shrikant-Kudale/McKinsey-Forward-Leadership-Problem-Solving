@@ -1,0 +1,25 @@
+{
+  "title": "Day 08: Hardware maker, three product tiers (currency units)",
+  "lever_step": 0.05,
+  "fixed_costs": 2400000,
+  "segments": [
+    {
+      "name": "Premium",
+      "price": 180,
+      "unit_cost": 110,
+      "volume": 20000
+    },
+    {
+      "name": "Standard",
+      "price": 120,
+      "unit_cost": 80,
+      "volume": 30000
+    },
+    {
+      "name": "Economy",
+      "price": 80,
+      "unit_cost": 62,
+      "volume": 20000
+    }
+  ]
+}
