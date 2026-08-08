@@ -1,0 +1,9 @@
+# Profit Driver Tree (Day 08, Session 3)
+# Fill in each field; guidance is in the comments.
+template: "Profit Driver Tree"
+day: 8
+revenue_drivers: ""  # Price, volume, mix by segment
+cost_drivers: ""  # Variable per unit and fixed
+baseline_profit: ""  # Reconciled figure
+lever_ranking: ""  # Impact of a uniform move
+first_lever: ""  # Choice and rationale
