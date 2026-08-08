@@ -1,0 +1,19 @@
+{
+  "day": 8,
+  "date": "2026-08-08",
+  "session": "Session 3",
+  "session_title": "Structuring the Problem",
+  "topic": "Quantitative Profitability & Driver Trees",
+  "commit_messages": [
+    "docs(day-08): add profitability and driver trees framework overview",
+    "docs(day-08): add executive playbook for profitability and driver trees",
+    "feat(day-08): add profit_driver_simulator.py analytical tool",
+    "data(day-08): add case dataset for profitability and driver trees",
+    "docs(day-08): add case study walkthrough: Hardware maker with three tiers and thin margin",
+    "docs(day-08): add reflection and action checklist",
+    "docs(day-08): align content with Session 3 objectives",
+    "feat(day-08): add reusable template driver_tree.yaml",
+    "refactor(day-08): tighten step-by-step methodology wording",
+    "chore(day-08): update day metadata and manifest entries"
+  ]
+}
