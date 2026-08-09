@@ -1,0 +1,9 @@
+# Hypothesis Card (Day 09, Session 3)
+# Fill in each field; guidance is in the comments.
+template: "Hypothesis Card"
+day: 9
+hypothesis: ""  # If X then Y because Z
+refuting_evidence: ""  # What would change my mind
+analyses: ""  # Fastest tests
+criteria_weights: ""  # Agreed before scoring
+decision: ""  # Choice and rationale
