@@ -1,0 +1,19 @@
+{
+  "day": 10,
+  "date": "2026-08-10",
+  "session": "Session 4",
+  "session_title": "Data-Driven Analysis & Synthesis",
+  "topic": "Designing Lean Workplans",
+  "commit_messages": [
+    "docs(day-10): add lean analytical workplans framework overview",
+    "docs(day-10): add executive playbook for lean analytical workplans",
+    "feat(day-10): add workplan_validator.py analytical tool",
+    "data(day-10): add case dataset for lean analytical workplans",
+    "docs(day-10): add case study walkthrough: SaaS churn diagnosis workplan",
+    "docs(day-10): add reflection and action checklist",
+    "docs(day-10): align content with Session 4 objectives",
+    "feat(day-10): add reusable template lean_workplan.yaml",
+    "refactor(day-10): tighten step-by-step methodology wording",
+    "chore(day-10): update day metadata and manifest entries"
+  ]
+}
