@@ -1,0 +1,10 @@
+# Lean Workplan (Day 10, Session 4)
+# Fill in each field; guidance is in the comments.
+template: "Lean Workplan"
+day: 10
+hypothesis: ""  # Testable statement
+analysis: ""  # Minimum viable test
+data_source: ""  # System and access
+owner: ""  # One name
+deadline: ""  # ISO date
+effort_days: ""  # Max 5
