@@ -1,0 +1,61 @@
+{
+  "title": "Day 10: SaaS churn diagnosis workplan",
+  "as_of": "2026-08-10",
+  "max_effort_days": 5,
+  "items": [
+    {
+      "hypothesis": "Churn is concentrated in accounts with fewer than 3 active seats by month 2",
+      "analysis": "Cohort retention by seat count",
+      "data_source": "Billing and product-event warehouse",
+      "owner": "Data Analyst",
+      "deadline": "2026-08-12",
+      "effort_days": 2,
+      "status": "in_progress"
+    },
+    {
+      "hypothesis": "Drop-off at the integration step drives early churn",
+      "analysis": "Onboarding funnel analysis",
+      "data_source": "Product analytics",
+      "owner": "Product Manager",
+      "deadline": "2026-08-14",
+      "effort_days": 3,
+      "status": "not_started"
+    },
+    {
+      "hypothesis": "The Q1 price increase pushed SMB accounts to competitors",
+      "analysis": "Win/loss review and price elasticity",
+      "data_source": "CRM and finance",
+      "owner": "",
+      "deadline": "2026-08-15",
+      "effort_days": 4,
+      "status": "not_started"
+    },
+    {
+      "hypothesis": "Support response above 24 hours correlates with churn",
+      "analysis": "Ticket SLA vs. churn correlation",
+      "data_source": "Support ticket export",
+      "owner": "Support Lead",
+      "deadline": "2026-08-08",
+      "effort_days": 2,
+      "status": "in_progress"
+    },
+    {
+      "hypothesis": "Competitor feature parity has closed our advantage",
+      "analysis": "Market-wide feature benchmarking",
+      "data_source": "Analyst reports and customer interviews",
+      "owner": "Strategy Associate",
+      "deadline": "2026-08-21",
+      "effort_days": 9,
+      "status": "not_started"
+    },
+    {
+      "hypothesis": "",
+      "analysis": "Map the entire customer journey",
+      "data_source": "Workshops",
+      "owner": "Design Lead",
+      "deadline": "2026-08-28",
+      "effort_days": 12,
+      "status": "not_started"
+    }
+  ]
+}
