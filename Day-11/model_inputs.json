@@ -1,0 +1,41 @@
+{
+  "title": "Day 11: Mid-market expense-software sizing and build case (INR)",
+  "fermi_factors": [
+    {
+      "name": "Mid-market firms in target cities",
+      "value": 60000
+    },
+    {
+      "name": "Adoption share within 3 years",
+      "value": 0.15
+    },
+    {
+      "name": "Annual spend per firm",
+      "value": 240000
+    }
+  ],
+  "top_down_estimate": 2900000000,
+  "monthly_series": [
+    118,
+    121,
+    119,
+    124,
+    122,
+    260,
+    125,
+    127,
+    123,
+    129,
+    126,
+    130
+  ],
+  "discount_rate": 0.12,
+  "cash_flows": [
+    -1200000,
+    250000,
+    400000,
+    520000,
+    600000,
+    600000
+  ]
+}
