@@ -1,0 +1,9 @@
+# Sanity Check Log (Day 11, Session 4)
+# Fill in each field; guidance is in the comments.
+template: "Sanity Check Log"
+day: 11
+bottom_up_estimate: ""  # Factors and product
+top_down_estimate: ""  # Source and figure
+ratio: ""  # Within 0.5x to 2x?
+outliers_found: ""  # Treatment decided
+key_assumptions: ""  # Top three
