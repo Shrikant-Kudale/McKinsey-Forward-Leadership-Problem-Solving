@@ -1,0 +1,5 @@
+criterion,weight,score
+Each finding cites at least two facts,3,2
+Implications are client-specific,2,3
+"Recommendations have owner, timing and impact",2,4
+I can trace any recommendation back to facts,3,2
