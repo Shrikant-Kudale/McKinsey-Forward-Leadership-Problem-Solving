@@ -1,0 +1,19 @@
+{
+  "day": 12,
+  "date": "2026-08-12",
+  "session": "Session 4",
+  "session_title": "Data-Driven Analysis & Synthesis",
+  "topic": "Synthesizing Insights: From Raw Findings to So What",
+  "commit_messages": [
+    "docs(day-12): add synthesis ladder framework overview",
+    "docs(day-12): add executive playbook for synthesis ladder",
+    "feat(day-12): add readiness_scorer.py analytical tool",
+    "data(day-12): add case dataset for synthesis ladder",
+    "docs(day-12): add case study walkthrough: Logistics firm sees late deliveries cluster in two depots",
+    "docs(day-12): add reflection and action checklist",
+    "docs(day-12): align content with Session 4 objectives",
+    "feat(day-12): add reusable template synthesis_ladder.yaml",
+    "refactor(day-12): tighten step-by-step methodology wording",
+    "chore(day-12): update day metadata and manifest entries"
+  ]
+}
