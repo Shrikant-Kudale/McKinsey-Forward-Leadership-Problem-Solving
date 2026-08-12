@@ -1,0 +1,9 @@
+# Synthesis Ladder (Day 12, Session 4)
+# Fill in each field; guidance is in the comments.
+template: "Synthesis Ladder"
+day: 12
+facts: ""  # With sources
+findings: ""  # Pattern per group
+implications: ""  # So what for the client
+recommendations: ""  # Owner, timing, impact
+traceability_check: ""  # Recommendation to fact map
