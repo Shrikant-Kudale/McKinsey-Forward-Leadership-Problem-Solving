@@ -1,0 +1,19 @@
+{
+  "day": 13,
+  "date": "2026-08-13",
+  "session": "Session 5",
+  "session_title": "Communicating for Impact",
+  "topic": "The Minto Pyramid Principle",
+  "commit_messages": [
+    "docs(day-13): add Minto Pyramid Principle framework overview",
+    "docs(day-13): add executive playbook for Minto Pyramid Principle",
+    "feat(day-13): add readiness_scorer.py analytical tool",
+    "data(day-13): add case dataset for Minto Pyramid Principle",
+    "docs(day-13): add case study walkthrough: Board memo on a supply-chain investment",
+    "docs(day-13): add reflection and action checklist",
+    "docs(day-13): align content with Session 5 objectives",
+    "feat(day-13): add reusable template pyramid_outline.yaml",
+    "refactor(day-13): tighten step-by-step methodology wording",
+    "chore(day-13): update day metadata and manifest entries"
+  ]
+}
