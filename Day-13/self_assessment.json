@@ -1,0 +1,30 @@
+{
+  "title": "Day 13: The Minto Pyramid Principle - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "The answer is in the first sentence",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "I have three or fewer supports",
+      "weight": 2,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Each level answers why or how",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "The reader can stop after paragraph one and still decide",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"The answer is in the first sentence\" this week and log the result."
+}
