@@ -1,0 +1,30 @@
+{
+  "title": "Day 14: Narrative Storyboarding & SCQA Executive Decks - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "The SCQA fits in four sentences",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Every title is a full-sentence takeaway",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Reading titles alone tells the story",
+      "weight": 2,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Each slide has exactly one proof element",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"Every title is a full-sentence takeaway\" this week and log the result."
+}
