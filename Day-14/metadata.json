@@ -1,0 +1,19 @@
+{
+  "day": 14,
+  "date": "2026-08-14",
+  "session": "Session 5",
+  "session_title": "Communicating for Impact",
+  "topic": "Narrative Storyboarding & SCQA Executive Decks",
+  "commit_messages": [
+    "docs(day-14): add SCQA storyboards framework overview",
+    "docs(day-14): add executive playbook for SCQA storyboards",
+    "feat(day-14): add readiness_scorer.py analytical tool",
+    "data(day-14): add case dataset for SCQA storyboards",
+    "docs(day-14): add case study walkthrough: Digital turnaround deck for a regional retailer",
+    "docs(day-14): add reflection and action checklist",
+    "docs(day-14): align content with Session 5 objectives",
+    "feat(day-14): add reusable template storyboard.yaml",
+    "refactor(day-14): tighten step-by-step methodology wording",
+    "chore(day-14): update day metadata and manifest entries"
+  ]
+}
