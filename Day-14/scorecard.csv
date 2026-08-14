@@ -1,0 +1,5 @@
+criterion,weight,score
+The SCQA fits in four sentences,3,4
+Every title is a full-sentence takeaway,2,2
+Reading titles alone tells the story,2,3
+Each slide has exactly one proof element,3,4
