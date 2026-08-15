@@ -1,0 +1,88 @@
+{
+  "charts": [
+    {
+      "title": "Online margin trails in-store by 7 points because fulfilment is costly",
+      "type": "bar",
+      "unit": "Contribution margin, % of basket",
+      "source": "Day 29 retail case",
+      "labels": [
+        "In-store",
+        "Online",
+        "Click and collect"
+      ],
+      "series": [
+        {
+          "name": "Contribution margin %",
+          "values": [
+            22.6,
+            15.4,
+            25.7
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Repeat purchase rate recovered after the loyalty relaunch pilot",
+      "type": "line",
+      "unit": "Repeat purchase rate, %",
+      "source": "Pilot vs. control cohorts",
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "series": [
+        {
+          "name": "Control",
+          "values": [
+            31,
+            30,
+            31,
+            30,
+            31,
+            30
+          ]
+        },
+        {
+          "name": "Pilot",
+          "values": [
+            31,
+            32,
+            35,
+            38,
+            40,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Three causes drive 77% of outage minutes",
+      "type": "bar",
+      "unit": "Incident minutes",
+      "source": "Day 06 incident log",
+      "labels": [
+        "Config change",
+        "Conn pool",
+        "Cache stampede",
+        "TLS cert",
+        "API timeout"
+      ],
+      "series": [
+        {
+          "name": "Minutes",
+          "values": [
+            410,
+            290,
+            150,
+            90,
+            60
+          ]
+        }
+      ]
+    }
+  ]
+}
