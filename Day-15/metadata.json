@@ -1,0 +1,19 @@
+{
+  "day": 15,
+  "date": "2026-08-15",
+  "session": "Session 5",
+  "session_title": "Communicating for Impact",
+  "topic": "Executive Data Storytelling & High-Impact Visuals",
+  "commit_messages": [
+    "docs(day-15): add data storytelling and visuals framework overview",
+    "docs(day-15): add executive playbook for data storytelling and visuals",
+    "feat(day-15): add chart_generator.py analytical tool",
+    "data(day-15): add case dataset for data storytelling and visuals",
+    "docs(day-15): add case study walkthrough: Three charts for a retail board pack",
+    "docs(day-15): add reflection and action checklist",
+    "docs(day-15): align content with Session 5 objectives",
+    "feat(day-15): add reusable template chart_spec.yaml",
+    "refactor(day-15): tighten step-by-step methodology wording",
+    "chore(day-15): update day metadata and manifest entries"
+  ]
+}
