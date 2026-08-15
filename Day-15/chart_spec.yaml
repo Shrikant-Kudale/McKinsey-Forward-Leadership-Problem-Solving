@@ -1,0 +1,9 @@
+# Chart Specification (Day 15, Session 5)
+# Fill in each field; guidance is in the comments.
+template: "Chart Specification"
+day: 15
+message: ""  # What the chart proves
+chart_type: ""  # Bar, line, stacked, scatter
+action_title: ""  # Full sentence
+highlight: ""  # The one point to emphasise
+source_and_unit: ""  # Always labelled
