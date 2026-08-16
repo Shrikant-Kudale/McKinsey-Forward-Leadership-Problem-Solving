@@ -1,0 +1,19 @@
+{
+  "day": 16,
+  "date": "2026-08-16",
+  "session": "Session 6",
+  "session_title": "Influencing & Stakeholder Alignment",
+  "topic": "Stakeholder Mapping & Power-Interest Grids",
+  "commit_messages": [
+    "docs(day-16): add stakeholder mapping framework overview",
+    "docs(day-16): add executive playbook for stakeholder mapping",
+    "feat(day-16): add stakeholder_grid.py analytical tool",
+    "data(day-16): add case dataset for stakeholder mapping",
+    "docs(day-16): add case study walkthrough: Data-platform migration across engineering and business teams",
+    "docs(day-16): add reflection and action checklist",
+    "docs(day-16): align content with Session 6 objectives",
+    "feat(day-16): add reusable template stakeholder_map.yaml",
+    "refactor(day-16): tighten step-by-step methodology wording",
+    "chore(day-16): update day metadata and manifest entries"
+  ]
+}
