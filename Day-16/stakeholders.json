@@ -1,0 +1,69 @@
+{
+  "title": "Day 16: Stakeholder map for a data-platform migration",
+  "decision": "Approve migration plan and freeze legacy changes",
+  "stakeholders": [
+    {
+      "name": "Chief Technology Officer",
+      "power": 9,
+      "interest": 8,
+      "stance": 2,
+      "concern": "Wants a clear delivery date"
+    },
+    {
+      "name": "Chief Financial Officer",
+      "power": 9,
+      "interest": 6,
+      "stance": 0,
+      "concern": "Cost of dual running"
+    },
+    {
+      "name": "Head of Product",
+      "power": 7,
+      "interest": 9,
+      "stance": 1,
+      "concern": "Feature freeze impact"
+    },
+    {
+      "name": "Head of Data Engineering",
+      "power": 6,
+      "interest": 10,
+      "stance": 2,
+      "concern": "Capacity and tooling"
+    },
+    {
+      "name": "Security Lead",
+      "power": 7,
+      "interest": 5,
+      "stance": -1,
+      "concern": "Access-control model in the new platform"
+    },
+    {
+      "name": "Sales Operations Manager",
+      "power": 4,
+      "interest": 8,
+      "stance": -1,
+      "concern": "Report downtime during cutover"
+    },
+    {
+      "name": "Customer Support Lead",
+      "power": 3,
+      "interest": 6,
+      "stance": 0,
+      "concern": "Customer-facing disruption"
+    },
+    {
+      "name": "Legal Counsel",
+      "power": 6,
+      "interest": 3,
+      "stance": 0,
+      "concern": "Data residency"
+    },
+    {
+      "name": "Regional IT Administrator",
+      "power": 3,
+      "interest": 3,
+      "stance": -2,
+      "concern": "Retraining effort"
+    }
+  ]
+}
