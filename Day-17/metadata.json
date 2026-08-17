@@ -1,0 +1,19 @@
+{
+  "day": 17,
+  "date": "2026-08-17",
+  "session": "Session 6",
+  "session_title": "Influencing & Stakeholder Alignment",
+  "topic": "Active Listening, Empathy & Difficult Conversations",
+  "commit_messages": [
+    "docs(day-17): add active listening and feedback framework overview",
+    "docs(day-17): add executive playbook for active listening and feedback",
+    "feat(day-17): add readiness_scorer.py analytical tool",
+    "data(day-17): add case dataset for active listening and feedback",
+    "docs(day-17): add case study walkthrough: Pushing back on an unrealistic launch deadline",
+    "docs(day-17): add reflection and action checklist",
+    "docs(day-17): align content with Session 6 objectives",
+    "feat(day-17): add reusable template conversation_plan.yaml",
+    "refactor(day-17): tighten step-by-step methodology wording",
+    "chore(day-17): update day metadata and manifest entries"
+  ]
+}
