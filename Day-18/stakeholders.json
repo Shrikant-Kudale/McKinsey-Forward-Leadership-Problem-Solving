@@ -1,0 +1,62 @@
+{
+  "title": "Day 18: Pre-wiring map for an AI forecasting pilot budget",
+  "decision": "Approve a 6M pilot at the steering committee",
+  "stakeholders": [
+    {
+      "name": "VP Supply Chain",
+      "power": 8,
+      "interest": 9,
+      "stance": 2,
+      "concern": "Wants measurable stock-out reduction"
+    },
+    {
+      "name": "Chief Financial Officer",
+      "power": 9,
+      "interest": 7,
+      "stance": -1,
+      "concern": "Payback evidence"
+    },
+    {
+      "name": "Chief Data Officer",
+      "power": 8,
+      "interest": 8,
+      "stance": 1,
+      "concern": "Data quality readiness"
+    },
+    {
+      "name": "Plant Operations Head",
+      "power": 6,
+      "interest": 8,
+      "stance": -1,
+      "concern": "Workload during rollout"
+    },
+    {
+      "name": "Procurement Director",
+      "power": 5,
+      "interest": 6,
+      "stance": 0,
+      "concern": "Supplier data sharing"
+    },
+    {
+      "name": "Chief Risk Officer",
+      "power": 7,
+      "interest": 6,
+      "stance": 0,
+      "concern": "Model governance"
+    },
+    {
+      "name": "Finance Business Partner",
+      "power": 4,
+      "interest": 7,
+      "stance": 1,
+      "concern": "Benefit tracking method"
+    },
+    {
+      "name": "Internal Audit Head",
+      "power": 6,
+      "interest": 4,
+      "stance": -1,
+      "concern": "Control environment"
+    }
+  ]
+}
