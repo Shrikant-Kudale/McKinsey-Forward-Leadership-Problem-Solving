@@ -1,0 +1,19 @@
+{
+  "day": 18,
+  "date": "2026-08-18",
+  "session": "Session 6",
+  "session_title": "Influencing & Stakeholder Alignment",
+  "topic": "Persuasion Without Authority & Executive Presence",
+  "commit_messages": [
+    "docs(day-18): add persuasion and pre-wiring framework overview",
+    "docs(day-18): add executive playbook for persuasion and pre-wiring",
+    "feat(day-18): add stakeholder_grid.py analytical tool",
+    "data(day-18): add case dataset for persuasion and pre-wiring",
+    "docs(day-18): add case study walkthrough: Approving an AI forecasting pilot budget",
+    "docs(day-18): add reflection and action checklist",
+    "docs(day-18): align content with Session 6 objectives",
+    "feat(day-18): add reusable template prewire_plan.yaml",
+    "refactor(day-18): tighten step-by-step methodology wording",
+    "chore(day-18): update day metadata and manifest entries"
+  ]
+}
