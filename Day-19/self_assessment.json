@@ -1,0 +1,30 @@
+{
+  "title": "Day 19: Psychological Safety & Team Norms - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "We have written working agreements",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Post-mortems focus on systems, not people",
+      "weight": 2,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "I shared a mistake with the team",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "We re-survey on a schedule",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"We have written working agreements\" this week and log the result."
+}
