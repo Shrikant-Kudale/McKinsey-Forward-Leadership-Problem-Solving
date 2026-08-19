@@ -1,0 +1,19 @@
+{
+  "day": 19,
+  "date": "2026-08-19",
+  "session": "Session 7",
+  "session_title": "High-Performing Teams & Collaboration",
+  "topic": "Psychological Safety & Team Norms",
+  "commit_messages": [
+    "docs(day-19): add psychological safety framework overview",
+    "docs(day-19): add executive playbook for psychological safety",
+    "feat(day-19): add readiness_scorer.py analytical tool",
+    "data(day-19): add case dataset for psychological safety",
+    "docs(day-19): add case study walkthrough: Engineering team recovers after a production incident",
+    "docs(day-19): add reflection and action checklist",
+    "docs(day-19): align content with Session 7 objectives",
+    "feat(day-19): add reusable template team_charter.yaml",
+    "refactor(day-19): tighten step-by-step methodology wording",
+    "chore(day-19): update day metadata and manifest entries"
+  ]
+}
