@@ -1,0 +1,9 @@
+# Conflict Resolution Protocol (Day 20, Session 7)
+# Fill in each field; guidance is in the comments.
+template: "Conflict Resolution Protocol"
+day: 20
+issue: ""  # Task conflict statement
+silent_ideas: ""  # Collected before discussion
+round_robin: ""  # Order and time limits
+decision_rule: ""  # Consent or consensus
+dissent_log: ""  # Revisit date
