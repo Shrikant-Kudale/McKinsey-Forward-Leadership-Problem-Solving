@@ -1,0 +1,19 @@
+{
+  "day": 20,
+  "date": "2026-08-20",
+  "session": "Session 7",
+  "session_title": "High-Performing Teams & Collaboration",
+  "topic": "Inclusive Collaboration & Productive Conflict Resolution",
+  "commit_messages": [
+    "docs(day-20): add inclusive collaboration and conflict framework overview",
+    "docs(day-20): add executive playbook for inclusive collaboration and conflict",
+    "feat(day-20): add readiness_scorer.py analytical tool",
+    "data(day-20): add case dataset for inclusive collaboration and conflict",
+    "docs(day-20): add case study walkthrough: Product and engineering disagree on roadmap scope",
+    "docs(day-20): add reflection and action checklist",
+    "docs(day-20): align content with Session 7 objectives",
+    "feat(day-20): add reusable template conflict_protocol.yaml",
+    "refactor(day-20): tighten step-by-step methodology wording",
+    "chore(day-20): update day metadata and manifest entries"
+  ]
+}
