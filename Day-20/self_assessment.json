@@ -1,0 +1,30 @@
+{
+  "title": "Day 20: Inclusive Collaboration & Productive Conflict Resolution - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "I separated task and relationship conflict",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Quieter voices were heard",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "We used a decision protocol",
+      "weight": 2,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Dissent is recorded",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"Quieter voices were heard\" this week and log the result."
+}
