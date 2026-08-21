@@ -1,0 +1,19 @@
+{
+  "day": 21,
+  "date": "2026-08-21",
+  "session": "Session 7",
+  "session_title": "High-Performing Teams & Collaboration",
+  "topic": "Agile Cadences, Delegation & Accountability Frameworks",
+  "commit_messages": [
+    "docs(day-21): add RACI, agile cadence and delegation framework overview",
+    "docs(day-21): add executive playbook for RACI, agile cadence and delegation",
+    "feat(day-21): add raci_validator.py analytical tool",
+    "data(day-21): add case dataset for RACI, agile cadence and delegation",
+    "docs(day-21): add case study walkthrough: Cross-functional feature launch",
+    "docs(day-21): add reflection and action checklist",
+    "docs(day-21): align content with Session 7 objectives",
+    "feat(day-21): add reusable template delegation_checklist.yaml",
+    "refactor(day-21): tighten step-by-step methodology wording",
+    "chore(day-21): update day metadata and manifest entries"
+  ]
+}
