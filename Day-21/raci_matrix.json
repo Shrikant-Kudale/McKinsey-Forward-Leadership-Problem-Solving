@@ -1,0 +1,76 @@
+{
+  "title": "Day 21: Feature launch RACI (contains deliberate flaws for the validator to find)",
+  "roles": [
+    "Product Manager",
+    "Engineering Lead",
+    "Designer",
+    "QA Lead",
+    "Data Analyst",
+    "Marketing Lead"
+  ],
+  "tasks": [
+    {
+      "task": "Define launch scope",
+      "assign": {
+        "Product Manager": "A/R",
+        "Engineering Lead": "C",
+        "Designer": "C",
+        "QA Lead": "I",
+        "Data Analyst": "C",
+        "Marketing Lead": "I"
+      }
+    },
+    {
+      "task": "Build the feature",
+      "assign": {
+        "Product Manager": "C",
+        "Engineering Lead": "A/R",
+        "Designer": "C",
+        "QA Lead": "I"
+      }
+    },
+    {
+      "task": "Design UX flows",
+      "assign": {
+        "Product Manager": "C",
+        "Engineering Lead": "C",
+        "Designer": "A/R"
+      }
+    },
+    {
+      "task": "Test plan and sign-off",
+      "assign": {
+        "Product Manager": "A",
+        "Engineering Lead": "C",
+        "QA Lead": "A/R"
+      }
+    },
+    {
+      "task": "Instrument analytics",
+      "assign": {
+        "Product Manager": "C",
+        "Engineering Lead": "C",
+        "Data Analyst": "R"
+      }
+    },
+    {
+      "task": "Launch communications",
+      "assign": {
+        "Product Manager": "C",
+        "Data Analyst": "I",
+        "Marketing Lead": "A/R"
+      }
+    },
+    {
+      "task": "Go/no-go decision",
+      "assign": {
+        "Product Manager": "A",
+        "Engineering Lead": "C",
+        "QA Lead": "C",
+        "Designer": "C",
+        "Data Analyst": "C",
+        "Marketing Lead": "C"
+      }
+    }
+  ]
+}
