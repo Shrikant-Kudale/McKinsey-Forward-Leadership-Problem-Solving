@@ -1,0 +1,19 @@
+{
+  "day": 22,
+  "date": "2026-08-22",
+  "session": "Session 8",
+  "session_title": "Digital Fluency & AI-Augmented Productivity",
+  "topic": "Digital Transformation Fundamentals",
+  "commit_messages": [
+    "docs(day-22): add digital transformation fundamentals framework overview",
+    "docs(day-22): add executive playbook for digital transformation fundamentals",
+    "feat(day-22): add readiness_scorer.py analytical tool",
+    "data(day-22): add case dataset for digital transformation fundamentals",
+    "docs(day-22): add case study walkthrough: Traditional insurer builds a claims data flywheel",
+    "docs(day-22): add reflection and action checklist",
+    "docs(day-22): align content with Session 8 objectives",
+    "feat(day-22): add reusable template digital_maturity.yaml",
+    "refactor(day-22): tighten step-by-step methodology wording",
+    "chore(day-22): update day metadata and manifest entries"
+  ]
+}
