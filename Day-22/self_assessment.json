@@ -1,0 +1,30 @@
+{
+  "title": "Day 22: Digital Transformation Fundamentals - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "I scored five maturity dimensions",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "I identified one data flywheel",
+      "weight": 2,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "My pilot has measurable outcomes",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Governance owners are named",
+      "weight": 3,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"I scored five maturity dimensions\" this week and log the result."
+}
