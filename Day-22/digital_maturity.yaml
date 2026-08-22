@@ -1,0 +1,9 @@
+# Digital Maturity Assessment (Day 22, Session 8)
+# Fill in each field; guidance is in the comments.
+template: "Digital Maturity Assessment"
+day: 22
+dimension_scores: ""  # Strategy, technology, data, talent, governance
+flywheel: ""  # Loop description
+api_inventory: ""  # Key interfaces
+pilot: ""  # 90-day outcome
+governance: ""  # Owners
