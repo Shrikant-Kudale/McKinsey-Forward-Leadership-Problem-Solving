@@ -1,0 +1,30 @@
+{
+  "title": "Day 23: Generative AI & Human-in-the-Loop Workflows - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "My prompts state task, context and format",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "I verified key claims",
+      "weight": 2,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "I used AI to challenge my view",
+      "weight": 2,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "A human gate exists before decisions",
+      "weight": 3,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"I verified key claims\" this week and log the result."
+}
