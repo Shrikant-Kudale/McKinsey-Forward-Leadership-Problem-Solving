@@ -1,0 +1,9 @@
+# Human-in-the-Loop Workflow (Day 23, Session 8)
+# Fill in each field; guidance is in the comments.
+template: "Human-in-the-Loop Workflow"
+day: 23
+task_and_audience: ""  # Prompt header
+context_supplied: ""  # Data and constraints
+verification_steps: ""  # Claims checked
+red_team_prompts: ""  # Risks, counterexamples
+decision_gate: ""  # Reviewer and override log
