@@ -1,0 +1,19 @@
+{
+  "day": 23,
+  "date": "2026-08-23",
+  "session": "Session 8",
+  "session_title": "Digital Fluency & AI-Augmented Productivity",
+  "topic": "Generative AI & Human-in-the-Loop Workflows",
+  "commit_messages": [
+    "docs(day-23): add generative AI human-in-the-loop framework overview",
+    "docs(day-23): add executive playbook for generative AI human-in-the-loop",
+    "feat(day-23): add readiness_scorer.py analytical tool",
+    "data(day-23): add case dataset for generative AI human-in-the-loop",
+    "docs(day-23): add case study walkthrough: Analyst uses an LLM to draft a market synthesis",
+    "docs(day-23): add reflection and action checklist",
+    "docs(day-23): align content with Session 8 objectives",
+    "feat(day-23): add reusable template hitl_workflow.yaml",
+    "refactor(day-23): tighten step-by-step methodology wording",
+    "chore(day-23): update day metadata and manifest entries"
+  ]
+}
