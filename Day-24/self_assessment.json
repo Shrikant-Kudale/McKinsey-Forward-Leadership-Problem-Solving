@@ -1,0 +1,30 @@
+{
+  "title": "Day 24: Ethical AI Governance, Data Privacy & Responsible Deployment - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "The use case has a risk class",
+      "weight": 3,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "A bias audit is documented",
+      "weight": 2,
+      "score": 3,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Explainability matches the stakes",
+      "weight": 2,
+      "score": 4,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    },
+    {
+      "criterion": "An accountable owner exists",
+      "weight": 3,
+      "score": 2,
+      "evidence": "Illustrative baseline from the day's case study; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"The use case has a risk class\" this week and log the result."
+}
