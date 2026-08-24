@@ -1,0 +1,5 @@
+criterion,weight,score
+The use case has a risk class,3,2
+A bias audit is documented,2,3
+Explainability matches the stakes,2,4
+An accountable owner exists,3,2
