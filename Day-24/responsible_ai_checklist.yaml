@@ -1,0 +1,9 @@
+# Responsible AI Checklist (Day 24, Session 8)
+# Fill in each field; guidance is in the comments.
+template: "Responsible AI Checklist"
+day: 24
+risk_class: ""  # Low, medium, high
+bias_audit: ""  # Groups and metrics
+explainability: ""  # Method and audience
+privacy_review: ""  # Purpose, minimisation, retention
+accountable_owner: ""  # Name and incident process
