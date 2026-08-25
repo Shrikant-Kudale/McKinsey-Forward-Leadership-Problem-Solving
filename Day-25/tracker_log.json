@@ -1,0 +1,167 @@
+{
+  "title": "Day 25: Energy and burnout early-warning log (14 days)",
+  "metrics": {
+    "sleep_hours": {
+      "target": 7.0,
+      "direction": "max"
+    },
+    "deep_work_hours": {
+      "target": 3.0,
+      "direction": "max"
+    },
+    "movement_minutes": {
+      "target": 30,
+      "direction": "max"
+    },
+    "recovery_breaks": {
+      "target": 4,
+      "direction": "max"
+    },
+    "stress_level_1to5": {
+      "target": 3,
+      "direction": "min"
+    }
+  },
+  "records": [
+    {
+      "day": "D01",
+      "values": {
+        "sleep_hours": 6.5,
+        "deep_work_hours": 2,
+        "movement_minutes": 20,
+        "recovery_breaks": 3,
+        "stress_level_1to5": 3
+      }
+    },
+    {
+      "day": "D02",
+      "values": {
+        "sleep_hours": 7,
+        "deep_work_hours": 3.5,
+        "movement_minutes": 40,
+        "recovery_breaks": 5,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D03",
+      "values": {
+        "sleep_hours": 6,
+        "deep_work_hours": 2.5,
+        "movement_minutes": 15,
+        "recovery_breaks": 2,
+        "stress_level_1to5": 4
+      }
+    },
+    {
+      "day": "D04",
+      "values": {
+        "sleep_hours": 7.5,
+        "deep_work_hours": 3,
+        "movement_minutes": 35,
+        "recovery_breaks": 4,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D05",
+      "values": {
+        "sleep_hours": 8,
+        "deep_work_hours": 4,
+        "movement_minutes": 45,
+        "recovery_breaks": 5,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D06",
+      "values": {
+        "sleep_hours": 6,
+        "deep_work_hours": 1.5,
+        "movement_minutes": 10,
+        "recovery_breaks": 2,
+        "stress_level_1to5": 4
+      }
+    },
+    {
+      "day": "D07",
+      "values": {
+        "sleep_hours": 5.5,
+        "deep_work_hours": 1,
+        "movement_minutes": 0,
+        "recovery_breaks": 1,
+        "stress_level_1to5": 5
+      }
+    },
+    {
+      "day": "D08",
+      "values": {
+        "sleep_hours": 7,
+        "deep_work_hours": 3,
+        "movement_minutes": 30,
+        "recovery_breaks": 4,
+        "stress_level_1to5": 3
+      }
+    },
+    {
+      "day": "D09",
+      "values": {
+        "sleep_hours": 7.5,
+        "deep_work_hours": 3.5,
+        "movement_minutes": 40,
+        "recovery_breaks": 5,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D10",
+      "values": {
+        "sleep_hours": 6.5,
+        "deep_work_hours": 2,
+        "movement_minutes": 20,
+        "recovery_breaks": 3,
+        "stress_level_1to5": 3
+      }
+    },
+    {
+      "day": "D11",
+      "values": {
+        "sleep_hours": 6,
+        "deep_work_hours": 2,
+        "movement_minutes": 15,
+        "recovery_breaks": 2,
+        "stress_level_1to5": 4
+      }
+    },
+    {
+      "day": "D12",
+      "values": {
+        "sleep_hours": 7,
+        "deep_work_hours": 3,
+        "movement_minutes": 35,
+        "recovery_breaks": 4,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D13",
+      "values": {
+        "sleep_hours": 7.5,
+        "deep_work_hours": 4,
+        "movement_minutes": 45,
+        "recovery_breaks": 5,
+        "stress_level_1to5": 2
+      }
+    },
+    {
+      "day": "D14",
+      "values": {
+        "sleep_hours": 6.5,
+        "deep_work_hours": 2.5,
+        "movement_minutes": 25,
+        "recovery_breaks": 3,
+        "stress_level_1to5": 3
+      }
+    }
+  ]
+}
