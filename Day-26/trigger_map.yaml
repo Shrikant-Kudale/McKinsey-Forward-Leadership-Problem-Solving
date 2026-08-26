@@ -1,0 +1,9 @@
+# Trigger Map (Day 26, Session 9)
+# Fill in each field; guidance is in the comments.
+template: "Trigger Map"
+day: 26
+triggers: ""  # Situation and body signal
+pause_practice: ""  # Breath or note
+response_options: ""  # Three scripted responses
+crisis_roles: ""  # Lead, communicator, scribe
+debrief_questions: ""  # Keep, change
