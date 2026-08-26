@@ -1,0 +1,19 @@
+{
+  "day": 26,
+  "date": "2026-08-26",
+  "session": "Session 9",
+  "session_title": "Emotional Intelligence & Sustainable Resilience",
+  "topic": "Emotional Regulation Under Pressure & Executive Composure",
+  "commit_messages": [
+    "docs(day-26): add emotional regulation under pressure framework overview",
+    "docs(day-26): add executive playbook for emotional regulation under pressure",
+    "feat(day-26): add readiness_scorer.py analytical tool",
+    "data(day-26): add case dataset for emotional regulation under pressure",
+    "docs(day-26): add case study walkthrough: Production crisis with an angry customer on the call",
+    "docs(day-26): add reflection and action checklist",
+    "docs(day-26): align content with Session 9 objectives",
+    "feat(day-26): add reusable template trigger_map.yaml",
+    "refactor(day-26): tighten step-by-step methodology wording",
+    "chore(day-26): update day metadata and manifest entries"
+  ]
+}
