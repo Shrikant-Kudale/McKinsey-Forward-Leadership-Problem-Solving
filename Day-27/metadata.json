@@ -1,0 +1,19 @@
+{
+  "day": 27,
+  "date": "2026-08-27",
+  "session": "Session 9",
+  "session_title": "Emotional Intelligence & Sustainable Resilience",
+  "topic": "Time Sovereignty, Deep Work & Ruthless Prioritization",
+  "commit_messages": [
+    "docs(day-27): add time sovereignty and deep work framework overview",
+    "docs(day-27): add executive playbook for time sovereignty and deep work",
+    "feat(day-27): add focus_allocator.py analytical tool",
+    "data(day-27): add case dataset for time sovereignty and deep work",
+    "docs(day-27): add case study walkthrough: Senior analyst with a fragmented week",
+    "docs(day-27): add reflection and action checklist",
+    "docs(day-27): align content with Session 9 objectives",
+    "feat(day-27): add reusable template weekly_time_plan.yaml",
+    "refactor(day-27): tighten step-by-step methodology wording",
+    "chore(day-27): update day metadata and manifest entries"
+  ]
+}
