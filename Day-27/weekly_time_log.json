@@ -1,0 +1,66 @@
+{
+  "title": "Day 27: One-week time log (senior analyst)",
+  "deep_work_target_hours": 15,
+  "activities": [
+    {
+      "activity": "Model build and review",
+      "hours": 7,
+      "quadrant": "Q2",
+      "type": "deep"
+    },
+    {
+      "activity": "Writing the board memo",
+      "hours": 3,
+      "quadrant": "Q2",
+      "type": "deep"
+    },
+    {
+      "activity": "1:1s and mentoring",
+      "hours": 3,
+      "quadrant": "Q2",
+      "type": "meeting"
+    },
+    {
+      "activity": "Status meetings",
+      "hours": 8,
+      "quadrant": "Q3",
+      "type": "meeting"
+    },
+    {
+      "activity": "Email and chat triage",
+      "hours": 9,
+      "quadrant": "Q3",
+      "type": "shallow"
+    },
+    {
+      "activity": "Ad-hoc requests from peers",
+      "hours": 6,
+      "quadrant": "Q3",
+      "type": "shallow"
+    },
+    {
+      "activity": "Production firefighting",
+      "hours": 5,
+      "quadrant": "Q1",
+      "type": "shallow"
+    },
+    {
+      "activity": "Deadline report",
+      "hours": 3,
+      "quadrant": "Q1",
+      "type": "deep"
+    },
+    {
+      "activity": "Reorganising files and low-value tasks",
+      "hours": 3,
+      "quadrant": "Q4",
+      "type": "shallow"
+    },
+    {
+      "activity": "News and social scrolling",
+      "hours": 2,
+      "quadrant": "Q4",
+      "type": "shallow"
+    }
+  ]
+}
