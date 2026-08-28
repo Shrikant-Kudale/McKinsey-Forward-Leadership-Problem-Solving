@@ -1,0 +1,66 @@
+{
+  "title": "Day 28: Connecting All 10 Forward Pillars - readiness scorecard",
+  "criteria": [
+    {
+      "criterion": "Session 1: Foundations of Adaptability & Growth Mindset",
+      "weight": 1,
+      "score": 4,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 2: Defining the Problem",
+      "weight": 1,
+      "score": 2,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 3: Structuring the Problem",
+      "weight": 1,
+      "score": 3,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 4: Data-Driven Analysis & Synthesis",
+      "weight": 1,
+      "score": 4,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 5: Communicating for Impact",
+      "weight": 1,
+      "score": 2,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 6: Influencing & Stakeholder Alignment",
+      "weight": 1,
+      "score": 3,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 7: High-Performing Teams & Collaboration",
+      "weight": 1,
+      "score": 4,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 8: Digital Fluency & AI-Augmented Productivity",
+      "weight": 1,
+      "score": 2,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 9: Emotional Intelligence & Sustainable Resilience",
+      "weight": 1,
+      "score": 3,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    },
+    {
+      "criterion": "Session 10: Synthesis, Action Planning & Career Architecture",
+      "weight": 1,
+      "score": 4,
+      "evidence": "Illustrative baseline from the integration case; replace with your own dated evidence."
+    }
+  ],
+  "next_action": "Schedule a 30-minute practice on \"Session 2: Defining the Problem\" this week and log the result."
+}
