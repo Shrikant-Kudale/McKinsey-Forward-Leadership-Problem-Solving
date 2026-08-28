@@ -1,0 +1,9 @@
+# Integration Map (Day 28, Session 10)
+# Fill in each field; guidance is in the comments.
+template: "Integration Map"
+day: 28
+session_scores: ""  # Ten scores 1-5
+dependency_map: ""  # Which pillar feeds which
+weakest_link: ""  # Constraint
+integrated_practice: ""  # Weekly drill
+monthly_review: ""  # Date
