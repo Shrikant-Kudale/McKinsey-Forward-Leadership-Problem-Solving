@@ -1,0 +1,25 @@
+{
+  "title": "Day 29: Regional retailer channel economics (USD; price = average basket, volume = transactions)",
+  "lever_step": 0.05,
+  "fixed_costs": 17200000,
+  "segments": [
+    {
+      "name": "In-store",
+      "price": 62,
+      "unit_cost": 48,
+      "volume": 900000
+    },
+    {
+      "name": "Online",
+      "price": 78,
+      "unit_cost": 66,
+      "volume": 250000
+    },
+    {
+      "name": "Click and collect",
+      "price": 70,
+      "unit_cost": 52,
+      "volume": 150000
+    }
+  ]
+}
