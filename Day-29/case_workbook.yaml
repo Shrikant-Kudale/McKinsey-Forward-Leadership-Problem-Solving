@@ -1,0 +1,9 @@
+# Case Workbook (Day 29, Session 10)
+# Fill in each field; guidance is in the comments.
+template: "Case Workbook"
+day: 29
+scq: ""  # Situation, complication, question
+smart_statement: ""  # Decision, target, date
+issue_tree: ""  # MECE tree
+lever_ranking: ""  # From the simulator
+board_memo: ""  # Pyramid structure
