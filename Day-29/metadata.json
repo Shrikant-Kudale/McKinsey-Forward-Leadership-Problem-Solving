@@ -1,0 +1,19 @@
+{
+  "day": 29,
+  "date": "2026-08-29",
+  "session": "Session 10",
+  "session_title": "Synthesis, Action Planning & Career Architecture",
+  "topic": "Full Business Case Simulation: Retail Margin & Digital Turnaround",
+  "commit_messages": [
+    "docs(day-29): add retail margin turnaround simulation framework overview",
+    "docs(day-29): add executive playbook for retail margin turnaround simulation",
+    "feat(day-29): add profit_driver_simulator.py analytical tool",
+    "data(day-29): add case dataset for retail margin turnaround simulation",
+    "docs(day-29): add case study walkthrough: Regional retailer: 85.8M revenue, 1.3 percent operating margin",
+    "docs(day-29): add reflection and action checklist",
+    "docs(day-29): align content with Session 10 objectives",
+    "feat(day-29): add reusable template case_workbook.yaml",
+    "refactor(day-29): tighten step-by-step methodology wording",
+    "chore(day-29): update day metadata and manifest entries"
+  ]
+}
