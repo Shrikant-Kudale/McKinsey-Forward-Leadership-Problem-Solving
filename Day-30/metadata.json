@@ -1,0 +1,19 @@
+{
+  "day": 30,
+  "date": "2026-08-30",
+  "session": "Session 10",
+  "session_title": "Synthesis, Action Planning & Career Architecture",
+  "topic": "90-Day Personal Leadership & Career Development Blueprint",
+  "commit_messages": [
+    "docs(day-30): add 90-day leadership blueprint framework overview",
+    "docs(day-30): add executive playbook for 90-day leadership blueprint",
+    "feat(day-30): add readiness_scorer.py analytical tool",
+    "data(day-30): add case dataset for 90-day leadership blueprint",
+    "docs(day-30): add case study walkthrough: Early-career engineer plans a move into a product-leadership track",
+    "docs(day-30): add reflection and action checklist",
+    "docs(day-30): align content with Session 10 objectives",
+    "feat(day-30): add reusable template okr_blueprint.yaml",
+    "refactor(day-30): tighten step-by-step methodology wording",
+    "chore(day-30): update day metadata and manifest entries"
+  ]
+}
