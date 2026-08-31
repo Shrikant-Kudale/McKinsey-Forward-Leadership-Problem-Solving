@@ -1,0 +1,19 @@
+{
+  "day": 31,
+  "date": "2026-08-31",
+  "session": "Capstone",
+  "session_title": "Capstone across all 10 sessions",
+  "topic": "End-to-End Capstone: Executive Playbook & Decision Toolkit",
+  "commit_messages": [
+    "docs(day-31): add capstone executive playbook framework overview",
+    "docs(day-31): add executive playbook for capstone executive playbook",
+    "feat(day-31): add toolkit.py analytical tool",
+    "data(day-31): add case dataset for capstone executive playbook",
+    "docs(day-31): add case study walkthrough: Capstone toolkit run",
+    "docs(day-31): add reflection and action checklist",
+    "docs(day-31): align content with Session 10 objectives",
+    "feat(day-31): add reusable template capstone_plan.yaml",
+    "refactor(day-31): tighten step-by-step methodology wording",
+    "chore(day-31): update day metadata and manifest entries"
+  ]
+}
