@@ -1,0 +1,182 @@
+[
+  {
+    "day": 1,
+    "folder": "Day-01",
+    "script": "readiness_scorer.py",
+    "description": "VUCA/BANI and mindset baseline: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 2,
+    "folder": "Day-02",
+    "script": "readiness_scorer.py",
+    "description": "ambiguity reframing: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 3,
+    "folder": "Day-03",
+    "script": "habit_tracker.py",
+    "description": "learning loops and habits: Consistency, trend and streak tracker"
+  },
+  {
+    "day": 4,
+    "folder": "Day-04",
+    "script": "readiness_scorer.py",
+    "description": "problem deconstruction and SCQ: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 5,
+    "folder": "Day-05",
+    "script": "readiness_scorer.py",
+    "description": "SMART problem statements and scope: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 6,
+    "folder": "Day-06",
+    "script": "pareto_analyzer.py",
+    "description": "root cause analysis and Pareto: Pareto 80/20 analyzer"
+  },
+  {
+    "day": 7,
+    "folder": "Day-07",
+    "script": "issue_tree_checker.py",
+    "description": "MECE and logic trees: MECE issue-tree reconciliation checker"
+  },
+  {
+    "day": 8,
+    "folder": "Day-08",
+    "script": "profit_driver_simulator.py",
+    "description": "profitability and driver trees: Profit driver sensitivity simulator"
+  },
+  {
+    "day": 9,
+    "folder": "Day-09",
+    "script": "decision_matrix.py",
+    "description": "hypothesis-driven problem solving: Weighted decision matrix and 2x2 prioritiser"
+  },
+  {
+    "day": 10,
+    "folder": "Day-10",
+    "script": "workplan_validator.py",
+    "description": "lean analytical workplans: Lean workplan validator"
+  },
+  {
+    "day": 11,
+    "folder": "Day-11",
+    "script": "business_case_model.py",
+    "description": "sanity checks and quantitative modelling: Fermi, outlier and NPV/IRR business-case model"
+  },
+  {
+    "day": 12,
+    "folder": "Day-12",
+    "script": "readiness_scorer.py",
+    "description": "synthesis ladder: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 13,
+    "folder": "Day-13",
+    "script": "readiness_scorer.py",
+    "description": "Minto Pyramid Principle: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 14,
+    "folder": "Day-14",
+    "script": "readiness_scorer.py",
+    "description": "SCQA storyboards: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 15,
+    "folder": "Day-15",
+    "script": "chart_generator.py",
+    "description": "data storytelling and visuals: SVG consulting-style chart generator"
+  },
+  {
+    "day": 16,
+    "folder": "Day-16",
+    "script": "stakeholder_grid.py",
+    "description": "stakeholder mapping: Power-interest grid and coalition index"
+  },
+  {
+    "day": 17,
+    "folder": "Day-17",
+    "script": "readiness_scorer.py",
+    "description": "active listening and feedback: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 18,
+    "folder": "Day-18",
+    "script": "stakeholder_grid.py",
+    "description": "persuasion and pre-wiring: Power-interest grid and coalition index"
+  },
+  {
+    "day": 19,
+    "folder": "Day-19",
+    "script": "readiness_scorer.py",
+    "description": "psychological safety: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 20,
+    "folder": "Day-20",
+    "script": "readiness_scorer.py",
+    "description": "inclusive collaboration and conflict: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 21,
+    "folder": "Day-21",
+    "script": "raci_validator.py",
+    "description": "RACI, agile cadence and delegation: RACI matrix validator"
+  },
+  {
+    "day": 22,
+    "folder": "Day-22",
+    "script": "readiness_scorer.py",
+    "description": "digital transformation fundamentals: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 23,
+    "folder": "Day-23",
+    "script": "readiness_scorer.py",
+    "description": "generative AI human-in-the-loop: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 24,
+    "folder": "Day-24",
+    "script": "readiness_scorer.py",
+    "description": "responsible AI governance: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 25,
+    "folder": "Day-25",
+    "script": "habit_tracker.py",
+    "description": "self-awareness and energy management: Consistency, trend and streak tracker"
+  },
+  {
+    "day": 26,
+    "folder": "Day-26",
+    "script": "readiness_scorer.py",
+    "description": "emotional regulation under pressure: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 27,
+    "folder": "Day-27",
+    "script": "focus_allocator.py",
+    "description": "time sovereignty and deep work: Weekly focus and Eisenhower allocator"
+  },
+  {
+    "day": 28,
+    "folder": "Day-28",
+    "script": "readiness_scorer.py",
+    "description": "integrating the ten pillars: Weighted readiness scorer for the day's checklist"
+  },
+  {
+    "day": 29,
+    "folder": "Day-29",
+    "script": "profit_driver_simulator.py",
+    "description": "retail margin turnaround simulation: Profit driver sensitivity simulator"
+  },
+  {
+    "day": 30,
+    "folder": "Day-30",
+    "script": "readiness_scorer.py",
+    "description": "90-day leadership blueprint: Weighted readiness scorer for the day's checklist"
+  }
+]
